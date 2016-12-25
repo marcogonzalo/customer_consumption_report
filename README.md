@@ -13,12 +13,12 @@ Muestra la fecha de la última vez en que fue contactado el cliente.
 
 --------------------------
 
-Show a report about customer behavior in terms of: 
+Report about customer behavior in terms of: 
 
 - Customer purchasing frequency
 - Average amount (untaxed)
 - Customer activity status
 
-Generate customer levels depending on number of invoices and average amount in the last year.
-Show days since last purchase with color indicators based on purchase delay compared to purchasing frequency.
-Show last date when customer was contacted.
+Generates customer levels depending on number of invoices and average amount in the last year.
+Shows days since last purchase with color indicators based on purchase delay compared to purchasing frequency.
+Shows last date when customer was contacted.
